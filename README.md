@@ -134,7 +134,7 @@ Project Link: [https://github.com/Hp-175/Huffman-coding](https://github.com/Hp-1
 
 
 
-[contributors-shield]: https://github.com/Hp-175/Huffman-coding
+[contributors-shield]: https://img.shields.io/github/contributors/Hp-175/Huffman-coding
 [contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
 [t-s]: https://img.shields.io/badge/Java-Netbeans-blue
 [product-screenshot]: images/ss.PNG
