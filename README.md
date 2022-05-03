@@ -49,6 +49,7 @@
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
+    <li><a href="#video">Video</a></li>
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
@@ -66,6 +67,12 @@
   </ol>
 </details>
 
+
+<!-- Video -->
+## Video
+
+
+The execution video can be found in the repo under the name "execution.mkv"
 
 
 <!-- ABOUT THE PROJECT -->
