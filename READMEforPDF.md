@@ -66,7 +66,9 @@
     <li><a href="#group-members">Group Members</a></li>
   </ol>
 </details>
+
 ## GitHub Repo Link
+
 [Click Here](https://github.com/Hp-175/Huffman-coding)
 or
 Paste & Go - https://github.com/Hp-175/Huffman-coding 
