@@ -24,7 +24,7 @@
 <br />
 <p align="center">
   <a href="">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Java Based Compress/Decompress Application with GUI</h3>
@@ -137,4 +137,4 @@ Project Link: [https://github.com/Hp-175/Huffman-coding](https://github.com/Hp-1
 [contributors-shield]: https://img.shields.io/github/contributors/Hp-175/Huffman-coding
 [contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
 [t-s]: https://img.shields.io/badge/Java-Netbeans-blue
-[product-screenshot]: images/ss.PNG
+[product-screenshot]: ss.PNG
