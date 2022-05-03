@@ -81,7 +81,7 @@ The execution video can be found in the repo under the name "execution.mkv"
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/ZTxW3H1/ss.png" alt="ss" border="0"></a>
+<a href=""><img src="https://i.ibb.co/ZTxW3H1/ss.png" alt="ss" border="0"></a>
 
 This is a Text Compression and Decompression Application which is built by using Huffman's Algorithm.
 
@@ -135,7 +135,7 @@ Project Link: [https://github.com/Hp-175/Huffman-coding](https://github.com/Hp-1
 
 
 
-[contributors-shield]: https://img.shields.io/github/contributors/Hp-175/Huffman-coding
+[contributors-shield]: https://img.shields.io/badge/Contributors-3-red
 [contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
 [t-s]: https://img.shields.io/badge/Java-Netbeans-blue
 
